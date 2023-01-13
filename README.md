@@ -31,7 +31,9 @@
 
 - ⚡ Fun fact **Viruses Don’t Make Computers/Phones Explode..**
 
-<h3 align="left"><b>Connect with me:</b></h3>
+<br>
+
+<h2 align="left"> 💬 <b>Connect with me:</b></h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-panthri-a36045210/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359457-7cec5290-c241-4959-90e4-2856d94eb57a.svg" alt="mohit panthri" height="30" width="40" />
@@ -50,7 +52,7 @@
 <div> -->
 <br>
 
-<h3 align="left"><b>📊 Github Stats</b></h3>
+<h2 align="left"><b>📊 Github Stats</b></h2>
 <br>
 <p align="center">
       <img width="50%"
@@ -63,7 +65,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpanthri&layout=compact&theme=highcontrast"
       />
     </p>
-
+    
 <p align="center">
 <img width="50%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=mohitpanthri&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"
