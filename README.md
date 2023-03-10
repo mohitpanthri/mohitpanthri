@@ -19,7 +19,7 @@
 
 - 🎓 Computer Science & Engineering - Third year @ DIT University, Dehradun.
 
-- 🌱 I’m currently learning Linux OS
+- 🌱 I’m currently learning Java
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
