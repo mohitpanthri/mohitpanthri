@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
 
-- 🎓 Computer Science & Engineering - Third year @ DIT University, Dehradun.
+- 🎓 Computer Science & Engineering - Fourth year @ DIT University, Dehradun.
 
 - 🌱 I’m currently learning Java
 
