@@ -19,7 +19,7 @@
 
 - 🎓 Computer Science & Engineering - Fourth year @ DIT University, Dehradun.
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
@@ -29,17 +29,19 @@
 
 - � Know about my experiences [My Linkedin](https://www.linkedin.com/in/mohit-panthri-a36045210/)
 
-- ⚡ Fun fact **Viruses Don’t Make Computers/Phones Explode..**
+- ⚡ Fun fact **You can visit the world’s first webpage even today** [Click here](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
 <br>
 
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohit-panthri-a36045210/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359457-7cec5290-c241-4959-90e4-2856d94eb57a.svg" alt="mohit panthri" height="30" width="40" />
+<a href="https://www.linkedin.com/in/mohit-panthri-a36045210/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359457-7cec5290-c241-4959-90e4-2856d94eb57a.svg" alt="mohit panthri" height="40" width="40" />
 </a>
-<a href="https://www.instagram.com/imohitpanthri" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359076-10c5cec2-4754-402c-bfc7-054ea0ec2dca.svg" alt="imohitpanthri" height="30" width="40" /></a>
-<a href="https://twitter.com/imohitpanthri" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359542-df320ebf-65d5-4ea0-9643-30129822d55e.svg" alt="imohitpanthri" height="30" width="40" /></a>
+&nbsp; &nbsp;
+<a href="https://www.instagram.com/imohitpanthri" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359076-10c5cec2-4754-402c-bfc7-054ea0ec2dca.svg" alt="imohitpanthri" height="40" width="40" /></a>
+&nbsp; &nbsp;
+<a href="https://twitter.com/imohitpanthri" target="blank"><img align="center" src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/82bcc3dc-30bd-48bc-bcd4-2b9987d6dd82" alt="imohitpanthri" height="40" width="40" /></a>
 <!-- <a href="https://leetcode.com/mohitpanthri" target="blank"><img align="center" src="svg/Social/leet-code.svg" alt="mohitpanthri" height="30" width="40" /></a> -->
 </p>
 
@@ -54,11 +56,6 @@
 
 <h2 align="left"><b>📊 Github Stats</b></h2>
 <br>
-<p align="center">
-      <img width="50%"
-        src="https://github-readme-stats.vercel.app/api?username=mohitpanthri&show_icons=true&theme=highcontrast&show_icons=true"
-      />
-    </p>
 
 <p align="center">
       <img width="41%"
@@ -71,8 +68,33 @@
 src="https://github-readme-streak-stats.herokuapp.com/?user=mohitpanthri&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"
       />
 <br><br>
-<a align="center" href="https://gitstalk.netlify.app/mohitpanthri/" target="_blank"> See My Latest Activities Here </a>
-    </p>
+</p>
+
+<div align="center">
+
+<h2 align="left"><b>🧑‍💻 Tech Stack</b></h2>
+<br>
+
+<img width="80px" src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/13fd39c1-87e3-4f18-8e3c-fdd1cbe69308)" />
+&nbsp;
+<img width="70px"  src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/5799bdbc-bf5a-4a97-ae8d-26fe446a6e01" />
+&nbsp;
+<img width="70px"  src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/22885a48-8b43-4a40-af66-92412e3fb34f" />
+&nbsp;
+<img width="70px"  src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/8a582639-e0b9-4f0f-ad7d-ba032546f184" />
+&nbsp;
+<img width="70px"  src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/62360093-3e9c-4cf0-85ad-90c5a9cbbf5b" />
+&nbsp;
+<img width="70px"  src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/825ac57b-c248-4523-b40c-1ea57eb69e91" />
+&nbsp;
+<img width="70px"  src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/d3cd1cb5-8fbe-4f79-b699-3afbe45cf642" />
+&nbsp;
+<img width="70px"  src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/c8c04f75-5375-4289-bb34-e37aee9b3859" />
+&nbsp;
+<img width="70px"  src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/df6bd6ee-d61e-4d65-8f74-9b1b4472790b" />
+
+<h2></h2>
+</div>
 
 
 <br>
