@@ -40,18 +40,13 @@
 </a>
 &nbsp; &nbsp;
 <a href="https://www.instagram.com/imohitpanthri" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359076-10c5cec2-4754-402c-bfc7-054ea0ec2dca.svg" alt="imohitpanthri" height="40" width="40" /></a>
-&nbsp; &nbsp;
+&nbsp; &nbsp;     
 <a href="https://twitter.com/imohitpanthri" target="blank"><img align="center" src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/82bcc3dc-30bd-48bc-bcd4-2b9987d6dd82" alt="imohitpanthri" height="40" width="40" /></a>
-<!-- <a href="https://leetcode.com/mohitpanthri" target="blank"><img align="center" src="svg/Social/leet-code.svg" alt="mohitpanthri" height="30" width="40" /></a> -->
+
 </p>
 
 <br>
 
-<!-- <div align="left">
-<h3><b>Now Playing On Spotify:</b>🎧</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xw58synoluwd6fcs679a7q6fh&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=xw58synoluwd6fcs679a7q6fh&redirect=true)
-<div> -->
 <br>
 
 <h2 align="left"><b>📊 Github Stats</b></h2>
