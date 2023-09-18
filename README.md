@@ -41,7 +41,8 @@
 &nbsp; &nbsp;
 <a href="https://www.instagram.com/imohitpanthri" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359076-10c5cec2-4754-402c-bfc7-054ea0ec2dca.svg" alt="imohitpanthri" height="40" width="40" /></a>
 &nbsp; &nbsp;     
-<a href="https://twitter.com/imohitpanthri" target="blank"><img align="center" src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/82bcc3dc-30bd-48bc-bcd4-2b9987d6dd82" alt="imohitpanthri" height="40" width="40" /></a>
+<a href="https://twitter.com/imohitpanthri" target="blank"><img align="center" src="https://github.com/mohitpanthri/mohitpanthri/assets/99413629/88d8bad3-abbc-4586-8d3f-7ccabb0f282e" alt="imohitpanthri" height="40" width="40" /></a>
+
 
 </p>
 
