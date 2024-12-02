@@ -12,16 +12,12 @@
 <h1> Hi <img src="https://user-images.githubusercontent.com/99413629/212355689-3911cc66-da6d-4432-abfb-864fdaf544c3.gif" width="30"> , I'm Mohit Panthri </h1>
 </div>
 
-<h3 align="center">A passionate Web Developer and Life-Long Learner based in India</h3>
+<h3 align="center">A passionate Developer and Life-Long Learner based in India</h3>
 <br>
 
 <img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
 
-- 🎓 Computer Science & Engineering - Fourth year @ DIT University, Dehradun.
-
-- 🌱 I’m currently learning JavaScript
-
-- 👯 I’m looking to collaborate on **Web Applications**
+- 💼 Currenty working as a Java Developer @ Oracle.
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/mohitpanthri?tab=repositories)
 
